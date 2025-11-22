@@ -29,8 +29,7 @@ unit-testing-java/
 1. Pastikan **Java 11+** dan **Maven** sudah terinstal.
 2. Clone repository:
 ```bash
-git clone [URL_REPOSITORY]
-cd unit-testing-java
+git clone https://github.com/naursyy/java-BookManager.git
 ```
 3. Install dependencies:
 ```bash
